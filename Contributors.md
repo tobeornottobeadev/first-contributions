@@ -6792,6 +6792,7 @@ Stephan Sharpe
 - [Leonas Klumbys](https://github.com/leonukas)
 - [Stuart Kehoe](https://github.com/sfkehoe)
 - [James Howerton](https://github.com/thejimster82)
+- [Jonathan C](https://github.com/tobeornottobeadev)
 - [Christian Moronta](https://github.com/Poliphria)
 - [braladin](https://github.com/braladin)
 - [Joshua Osborne](https://github.com/thepolm3)
