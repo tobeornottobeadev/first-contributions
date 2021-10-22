@@ -2102,6 +2102,7 @@ Stephan Sharpe
 - Diana Du
 - Ilkiv petro
 - Gabriel Corona
+- Jonathan C
 - Harry Le
 - Trevor Trinity-Rees
 - [Milena Monteiro](https://github.com/milenamonteiro)
